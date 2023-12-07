@@ -18,7 +18,7 @@ body {
 }
 
 main {
-    background: url(imagens/fundomain.jpg);
+    background: url(/imagens/fundomain.jpg);
     width: 100vw;
     height: 100vh;
     background-position: center;
@@ -27,7 +27,7 @@ main {
 }
 
 section#phone {
-    background: url(imagens/frame-iphone.png);
+    background: url(/imagens/frame-iphone.png);
     background-repeat: no-repeat;
 
     width: 305px;
